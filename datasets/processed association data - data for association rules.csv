@@ -1,0 +1,32 @@
+,Apple,Bread,Eggs,Ice cream,Milk,Yogurt,Chocolate
+0,Apple,,,,Milk,,Chocolate
+1,Apple,Bread,,,,,Chocolate
+2,Apple,,Eggs,Ice cream,,,
+3,Apple,,,,,,
+4,,Bread,,Ice cream,,,
+5,,Bread,,,Milk,Yogurt,Chocolate
+6,,,,Ice cream,,Yogurt,
+7,Apple,,,Ice cream,Milk,,
+8,,,,,,Yogurt,Chocolate
+9,Apple,,,,Milk,,Chocolate
+10,Apple,Bread,,,Milk,Yogurt,
+11,,Bread,Eggs,,Milk,Yogurt,Chocolate
+12,,,,,,Yogurt,
+13,,,,Ice cream,Milk,,Chocolate
+14,Apple,Bread,Eggs,Ice cream,Milk,Yogurt,
+15,Apple,,,Ice cream,,Yogurt,Chocolate
+16,,Bread,,Ice cream,Milk,Yogurt,Chocolate
+17,,Bread,Eggs,,Milk,Yogurt,
+18,,,,Ice cream,,,Chocolate
+19,,Bread,Eggs,Ice cream,,Yogurt,Chocolate
+20,Apple,,Eggs,,,,Chocolate
+21,,,,Ice cream,,Yogurt,Chocolate
+22,Apple,Bread,,Ice cream,Milk,,Chocolate
+23,Apple,,Eggs,Ice cream,,,
+24,Apple,Bread,,,,Yogurt,Chocolate
+25,,,,Ice cream,,,Chocolate
+26,,,,Ice cream,,,
+27,,,Eggs,,,Yogurt,
+28,,Bread,Eggs,,,Yogurt,
+29,Apple,,,,,,
+30,Apple,,,,,,
